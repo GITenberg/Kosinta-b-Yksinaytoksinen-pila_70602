@@ -1,0 +1,52 @@
+_repo: Kosinta-b-Yksinaytoksinen-pila_70602
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Silvanto, Reino
+    alias: Silva, Reino
+    birthdate: 1883
+    deathdate: 1943
+    gutenberg_agent_id: '45093'
+    url: http://www.gutenberg.org/2009/agents/45093
+    wikipedia: https://fi.wikipedia.org/wiki/Reino_Silvanto
+creator:
+  author:
+    agent_name: Chekhov, Anton Pavlovich
+    aliases:
+    - Chekov, Anton Pavlovich
+    - Чехов, Антон Павлович
+    - Tchekhov, Anton
+    - Tshehov, Anton
+    - Tchekhoff, Anton
+    - Tschechow, Anton
+    - Tchekoff, Anton
+    birthdate: 1860
+    deathdate: 1904
+    gutenberg_agent_id: '708'
+    url: http://www.gutenberg.org/2009/agents/708
+    wikipedia:
+    - https://en.wikipedia.org/wiki/Anton_Chekhov
+    - https://fi.wikipedia.org/wiki/Anton_T%C5%A1ehov
+description: 'Translation of: Предложение (Predlozheniye).'
+gutenberg_issued: '2023-04-20'
+identifiers:
+  gutenberg: '70602'
+language: fi
+pgterms:marc905: 20230413095513tshehov
+pgterms:marc906: '1908'
+pgterms:marc907: FI
+production_note: Tapio Riikonen
+publication_note: '  $aFinland :$bYrjö Weilin, $c1908.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Comedies'
+- !lcsh 'One-act plays'
+- !lcsh 'Marriage proposals -- Drama'
+- !lcsh 'Russian drama -- Translations into Finnish'
+- !lcsh 'Farces'
+- !lcc 'PG'
+- GITenberg
+title: 'Kosinta : $b Yksinäytöksinen pila'
+url: http://www.gutenberg.org/ebooks/70602
