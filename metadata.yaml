@@ -9,6 +9,9 @@ contributor:
     gutenberg_agent_id: '45093'
     url: http://www.gutenberg.org/2009/agents/45093
     wikipedia: https://fi.wikipedia.org/wiki/Reino_Silvanto
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Chekhov, Anton Pavlovich
@@ -28,6 +31,8 @@ creator:
     - https://en.wikipedia.org/wiki/Anton_Chekhov
     - https://fi.wikipedia.org/wiki/Anton_T%C5%A1ehov
 description: 'Translation of: Предложение (Predlozheniye).'
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/70602#Kosinta-b-Yksinaytoksinen-pila
 gutenberg_issued: '2023-04-20'
 identifiers:
   gutenberg: '70602'
